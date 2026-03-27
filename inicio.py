@@ -30,4 +30,4 @@ else:
     st.warning("ML permite crear modelos inteligentes 🤖")
 
 st.markdown("---")
-st.markdown("© Daniel Estrada")
+st.markdown("© Daniel Estrada - Eduar Vargas")

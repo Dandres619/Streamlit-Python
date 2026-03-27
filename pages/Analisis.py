@@ -62,4 +62,4 @@ with tab5:
     st.dataframe(df.describe())
 
 st.markdown("---")
-st.markdown("© Daniel Estrada")
+st.markdown("© Daniel Estrada - Eduar Vargas")
