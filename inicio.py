@@ -1,5 +1,10 @@
 import streamlit as st
 
+st.set_page_config(
+    page_title="🚀 Curso de Streamlit",
+    page_icon="🐍"
+)
+
 st.title("🚀 Curso de Streamlit")
 
 st.header("¿Qué es Streamlit?")
